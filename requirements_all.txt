@@ -732,7 +732,7 @@ habitipy==0.2.0
 hangups==0.4.11
 
 # homeassistant.components.cloud
-hass-nabucasa==0.37.2
+hass-nabucasa==0.38.0
 
 # homeassistant.components.splunk
 hass_splunk==0.1.1
@@ -765,7 +765,7 @@ hole==0.5.1
 holidays==0.10.3
 
 # homeassistant.components.frontend
-home-assistant-frontend==20201111.2
+home-assistant-frontend==20201126.0
 
 # homeassistant.components.zwave
 homeassistant-pyozw==0.1.10
